@@ -1,8 +1,8 @@
 # BizCardX-Extracting-Business-Card-Data-with-OCR
-![BizCardX](https://github.com/Benny-752/BizCardX-Extracting-Business-Card-Data-with-OCR/blob/main/BizCardX2.png)
+
 
 ## Introduction
-Manually inputting business card data into a database can be time-consuming and error-prone. To streamline this process, developers can automate the extraction of information from business cards and store it efficiently using optical character recognition (OCR) in combination with databases. EasyOCR, a robust OCR library, simplifies the task of extracting text from images. This open-source Python package employs deep learning models to accurately identify and extract text in various languages. By integrating EasyOCR with a MySQL database, developers can expedite the capture of business card data and maintain it in an organized structure.
+Manually inputting business card data into a database can be time-consuming and error-prone. To streamline this process, developers can automate the extraction of information from business cards and store it efficiently using optical character recognition (OCR) in combination with databases. EasyOCR, a robust OCR library, ![BizCardX](https://github.com/Benny-752/BizCardX-Extracting-Business-Card-Data-with-OCR/blob/main/BizCardX2.png)simplifies the task of extracting text from images. This open-source Python package employs deep learning models to accurately identify and extract text in various languages. By integrating EasyOCR with a MySQL database, developers can expedite the capture of business card data and maintain it in an organized structure.
 
 ## Tools and Requirements
 ### Tools to Install
