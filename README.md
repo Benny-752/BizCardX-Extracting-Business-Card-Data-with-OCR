@@ -6,7 +6,6 @@ Manually inputting business card data into a database can be time-consuming and 
 
 ## Tools and Requirements
 ### Tools to Install
-- Visual Studio Code
 - Jupyter Notebook
 - Python 3.11.0 or higher
 - MySQL
